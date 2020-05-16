@@ -1,0 +1,5 @@
+First of all run drawing_screen.py on cmd   python drawing_screen.py
+Than write character 7 or 8 or A
+Than Save
+Than Start Model_predictor.ipynb
+Finally shows results
